@@ -1,3 +1,3 @@
 # sharing-inc
 Sharing Inc Official  Website
-https://SharingInc.github.io/SharingInc/
+https://sharinginc.github.io/SharingInc/
